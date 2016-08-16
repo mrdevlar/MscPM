@@ -1,0 +1,9 @@
+Package: Hermes
+Title: Thesis
+Version: 0.0.0.95
+Authors@R: person("Richard", "Podkolinski", email = "devlar@gmail.com", role = c("aut", "cre"))
+Description: It covers the text and code of "Predictive Maintenance"
+Depends: R (>= 3.3.0)
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
